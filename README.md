@@ -9,9 +9,11 @@
  -->
 - 👔 I’m currently working as **backend developer.**
   
-- 🌱 eager to explore in **react, aws, docker, devops tools.**
+- 📩 Official Email: **cbhagat@woyce.io.**
+  
+- 🌱 eager to explore in **react, aws, docker,and devops tools like CICD, kubernetes etc.**
 
-- 💬 Ask me about **node js,nest js,prisma , sequlize , mongoose, express,postgresql , mysql, mongo db, redis etc.**
+- 💬 known tech stack:- **language**: Javascript, node js || **library or framework**: nest js, express, bootstrap etc || **ORM OR ODM Tools** : prisma , sequlize, mongoose || **DataBase**: postgresql, mysql, mongo db || **Cache Tools**:redis etc.**
 
 
 <!-- 
