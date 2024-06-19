@@ -8,7 +8,7 @@
 <!-- <p align="left"> <a href="https://twitter.com/chetanb40564499" target="blank"><img src="https://img.shields.io/twitter/follow/chetanb40564499?logo=twitter&style=for-the-badge" alt="chetanb40564499" /></a> </p>
  -->
 - 👔 I’m currently working as **backend developer.**
-- 
+  
 - 🌱 eager to explore in **react, aws, docker, devops tools.**
 
 - 💬 Ask me about **node js,nest js,prisma , sequlize , mongoose, express,postgresql , mysql, mongo db, redis etc.**
