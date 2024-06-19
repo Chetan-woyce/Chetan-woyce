@@ -13,7 +13,7 @@
   
 - 🌱 eager to explore in **react, aws, docker,and devops tools like CICD, kubernetes etc.**
 
-- 💬 known tech stack:- **language**: Javascript, node js || **library or framework**: nest js, express, bootstrap etc || **ORM OR ODM Tools** : prisma , sequlize, mongoose || **DataBase**: postgresql, mysql, mongo db || **Cache Tools**:redis etc.**
+- 💬 known tech stack:- **backend language**: Javascript, node js ,  **frontend language**: Javascript, html , css , react || **library or framework**: nest js, express, bootstrap etc || **ORM OR ODM Tools** : prisma , sequlize, mongoose || **DataBase**: postgresql, mysql, mongo db || **Cache Tools**:redis etc.**
 
 
 <!-- 
